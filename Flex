@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>   
+
+<link rel="stylesheet"href="style.css">
+
+<link rel="stylesheet"href="grid.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="box box1 "><img src="Screenshots/images (1).jpeg" alt="Image 1">
+
+    <h2>La Révolution IA</h2>
+
+    <p>​L'IA révolutionne le monde moderne</p>
+
+    <button> button </button>
+
+</div>
+
+<div class="box box2"><img src="Screenshots/images (2).jpeg" alt="Image 2">
+
+    <h2>IA Omniprésente</h2>
+
+    <p>​L'intelligence artificielle est partout</p>
+
+    <button> button </button>
+
+</div>
+
+<div class="box box3"><img src="Screenshots/images (3).jpeg" alt="Image 3">
+
+    <h2>Opportunités de l'IA</h2>
+
+    <p>​L'IA crée de nouvelles opportunités</p>
+
+    <button> button </button>
+
+</div>
+
+<div class="box box4"><img src="Screenshots/images (4).jpeg " alt="Image 4">
+
+    <h2> Futur Intelligent</h2>
+
+    <p>​Le futur est avec l'IA</p>
+
+    <button> button </button>
+
+</div>
+
+<div class="box box5"><img src="Screenshots/images (5).jpeg " alt="Image 5">
+
+    <h2>Nouveau Mode de Vie</h2>
+
+    <p>​L'IA change notre façon de vivre.</p>
+
+    <button> button </button>
+
+</div>
+
+<div class="box box6"><img src="Screenshots/images(6).jpeg " alt="Image 6">
+
+    <h2>Outil de Développement</h2>
+
+    <p>​L'IA est un outil puissant pour le développement</p>
+
+    <button> button </button>
+
+</div>
+
+</div>
+
+</body>
+
+</html>

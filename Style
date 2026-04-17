@@ -1,0 +1,37 @@
+
+
+.box img {
+
+    max-width: 100%;
+
+    height: auto;
+
+    border-radius: 5px;
+
+    object-fit: contain;
+
+
+
+}
+
+.box {
+
+    background-color: #36f867;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    text-align: center;
+
+    transition: transform 0.3s ease;
+
+}
+
+.box:hover{
+
+    transform: scale(1.05);
+
+}
+
+
